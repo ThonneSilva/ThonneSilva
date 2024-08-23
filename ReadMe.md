@@ -12,4 +12,6 @@ Estudante de analise e desenvolvimento<br>Estudando liguaguem C | Phyton | C#
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThonneSilva&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThonneSilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href = "https://github.com/ThonneSilva/ThonneSilva/blob/main/Profile%20(1).pdf" class="nav!link>**Curriculo**<\a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
