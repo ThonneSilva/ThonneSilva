@@ -4,13 +4,13 @@ Estudante de analise e desenvolvimento<br>Estudando liguaguem C | C# | C++ | PHP
 Analista de suporte 🧑🏾‍💻
 
 
-## 🌐 Socials:
+## 🌐
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sonicopan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thonne-cleiton/) 
 <a href="https://github.com/ThonneSilva/ThonneSilva/blob/main/Profile%20(1).pdf">
   <img src="https://img.shields.io/badge/Curr%C3%ADculo-%230077B5.svg?logo=pdf&logoColor=white" alt="Currículo">
 </a>
 
-# 💻:
+# 💻
 <div>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
