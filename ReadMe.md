@@ -24,9 +24,8 @@ Estudante de analise e desenvolvimento<br>Estudando liguaguem C | Phyton | C#
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThonneSilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThonneSilva&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThonneSilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
