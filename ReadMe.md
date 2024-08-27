@@ -1,4 +1,5 @@
-# 💫:Estudante de analise e desenvolvimento<br>Estudando liguaguem C | Phyton | C#
+# 💫: Sobre mim: 
+Estudante de analise e desenvolvimento<br>Estudando liguaguem C | Phyton | C#
 
 
 ## 🌐 Socials:
