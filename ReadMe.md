@@ -25,7 +25,7 @@ Analista de suporte 🧑🏾‍💻
 </div>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub:
 
 ![](https://github-readme-stats.vercel.app/api?username=ThonneSilva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThonneSilva&theme=nightowl&hide_border=false)<br/>
